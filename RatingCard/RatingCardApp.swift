@@ -11,7 +11,7 @@ import SwiftUI
 struct RatingCardApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CardView()
         }
     }
 }
